@@ -1,1 +1,0 @@
-document.write("Last Updated: " + new Date());
